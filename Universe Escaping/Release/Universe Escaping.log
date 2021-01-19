@@ -1,0 +1,17 @@
+﻿  Universe Escaping.cpp
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(81): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(92): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(95): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(106): error C2664: “void PlayMusicOnce(TCHAR [])”: 无法将参数 1 从“const wchar_t [12]”转换为“TCHAR []”
+  c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(106): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(120): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(170): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(182): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(189): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(190): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(228): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(229): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(233): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据

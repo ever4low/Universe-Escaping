@@ -1,0 +1,28 @@
+﻿  Universe Escaping.cpp
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(86): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(92): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(100): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(106): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(140): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(146): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(178): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(216): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(240): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(251): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(252): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(298): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(299): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(304): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(341): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(347): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(353): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(359): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(366): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(372): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\大帅哥\source\repos\universe escaping\universe escaping\universe escaping.cpp(437): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Universe Escaping.vcxproj -> C:\Users\大帅哥\source\repos\Universe Escaping\Debug\Universe Escaping.exe
